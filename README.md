@@ -1,7 +1,7 @@
 # A SPA Web App Building with Vanilla JavaScript
 
-This web application is a Vanilla Single Page Application created for the Solar Science company
-This SPA is to dynamically load content into the current page without loading an entire page from the server. Based on the Vanilla.js technology, this web application can comprehensively display all the information of the company that customers need to know including their contact information, the service types, the pricing range, the working schedule and the event calendar.  
+This web application is a Vanilla Single Page Application created for the Solar Science company.
+This SPA is to dynamically load content into the current page without loading an entire page from the server. Based on the Vanilla.js technology, this web application can comprehensively display all the information of the company that their customers need to know including their contact information, the service types, the pricing range, the working schedule and the event calendar.  
 
 
 ## Prerequisites
